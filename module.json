@@ -1,0 +1,21 @@
+{
+  "name": "fvtt-raw-html-journal",
+  "title": "Raw HTML Journal Entries",
+  "description": "This is a basic module that adds the raw HTML functionality to tinyMCE in FoundryVTT",
+  "author": "phillipells",
+  "version": "0.1.0",
+  "minimumCoreVersion": "0.7.9",
+  "compatibleCoreVersion": "0.7.9",
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    }
+  ],
+  "esmodules": ["dist/main.js"],
+  "url": "https://github.com/phillipells/fvtt-raw-html-journal",
+  "manifest": "https://raw.githubusercontent.com/phillipells/fvtt-raw-html-journal/master/module.json",
+  "download": "https://github.com/phillipells/fvtt-raw-html-journal/archive/v0.1.0.zip",
+  "license": "MIT"
+}
